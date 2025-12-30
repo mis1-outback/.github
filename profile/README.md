@@ -234,7 +234,8 @@ MSA(Microservice Architecture) 구조로 구현합니다.
 ## 📑 Documentation & Rules
 
 - 개발 관련 문서, 컨벤션, 규칙은  
-  👉 `common` 레포지토리의 Wiki에 정리합니다.
+  👉 `common` 레포지토리의 <a href="https://github.com/mis1-outback/common/wiki" target="_blank">wiki</a>에 정리합니다.
+  
 - 모든 스터디 및 프로젝트는 해당 문서를 기준으로 진행합니다.
 
 ---
