@@ -12,37 +12,73 @@ MIS1팀 개발 스터디 조직입니다.<br>
   <thead>
     <tr>
       <th>이름</th>
-      <th>역할 / 관심 분야</th>
+      <th>역할</th>
+      <th>GitHub</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>강동희</td>
-      <td>Backend / Java</td>
+      <td>팀장 / 관리자</td>
+      <td>
+        <a href="https://github.com/chocolaggibbiddori" target="_blank">
+          chocolaggibbiddori
+        </a>
+      </td>
     </tr>
     <tr>
       <td>오은아</td>
-      <td>Backend / Java</td>
+      <td>관리자 / DBA (Data Base Architect)</td>
+      <td>
+        <a href="https://github.com/eunalove" target="_blank">
+          eunalove
+        </a>
+      </td>
     </tr>
     <tr>
       <td>유가현</td>
-      <td>Backend / Java</td>
+      <td>기획자 / AA (Application Architect)</td>
+      <td>
+        <a href="https://github.com/yoogahyeon" target="_blank">
+          yoogahyeon
+        </a>
+      </td>
     </tr>
     <tr>
       <td>이민아</td>
-      <td>Backend / Java</td>
+      <td>IA (Infra Engineer Architect)</td>
+      <td>
+        <a href="https://github.com/minah13" target="_blank">
+          minah13
+        </a>
+      </td>
     </tr>
     <tr>
       <td>최은진</td>
-      <td>Backend / Java</td>
+      <td>IA (Infra Engineer Architect)</td>
+      <td>
+        <a href="https://github.com/dareunk" target="_blank">
+          dareunk
+        </a>
+      </td>
     </tr>
     <tr>
       <td>이수인</td>
-      <td>Backend / Java</td>
+      <td>AA (Application Architect)</td>
+      <td>
+        <a href="https://github.com/leesuin0710" target="_blank">
+          leesuin0710
+        </a>
+      </td>
     </tr>
     <tr>
       <td>이희재</td>
-      <td>Backend / Java</td>
+      <td>DBA (Data Base Architect)</td>
+      <td>
+        <a href="https://github.com/leeheejae1717" target="_blank">
+          leeheejae1717
+        </a>
+      </td>
     </tr>
   </tbody>
 </table>
